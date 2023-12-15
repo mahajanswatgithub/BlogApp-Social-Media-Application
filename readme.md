@@ -21,9 +21,9 @@
 
      v. Remove Blog Post
 
-     Vi. Add Like
+     vi. Add Like
      
-     Vii. Like CountBy Post
+     vii. Like CountBy Post
 
      viii. Authorize Like Remover
 
