@@ -115,7 +115,7 @@
   JpaRepository
 
 ### DataBase Design
-![ER-BloggingAPI-DFD](DFD.png)
+![ER-BloggingAPI-DFD](DFD.PNG)
 
 ### Data Structure used in your project
 
